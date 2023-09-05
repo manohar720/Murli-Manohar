@@ -1,2 +1,3 @@
 # Murli-Manohar
-This i my first git Repository
+This is my first git Repository
+Author-Murli Manohar
